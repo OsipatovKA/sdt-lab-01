@@ -11,10 +11,8 @@ int main()
     cout << "Vvedite dva chisla" << endl;
     cin >> a;
     cin >> b;
-    s=a+b;
-    c=a-b;
-    cout <<"A+B= " << a + b << endl;
-    cout <<"A-B= " << a - b << endl;
-    cout <<"A*B= " << a * b << endl;
+    cout << "A+B= " << a+b << endl;
+    cout << "A-B= " << a-b << endl;
+    cout << "A/B= " << a/b << endl;    cout << "A*B= " << a * b << endl;
     return 0;
 }
