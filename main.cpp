@@ -13,7 +13,8 @@ int main()
     cin >> b;
     s=a+b;
     c=a-b;
-    cout <<s << endl;
-    cout <<c << endl;
+    cout <<"A+B= " << a + b << endl;
+    cout <<"A-B= " << a - b << endl;
+    cout <<"A*B= " << a * b << endl;
     return 0;
 }
